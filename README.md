@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# bgChanger
-=======
 Background Changer:
 this project is  a background changer we can change background color of main div on btn click
 background color will same as the btn background color
@@ -11,4 +8,3 @@ tech stack :
  CSS3
  React Js
  Tailwind Css
->>>>>>> ec9d8c6 (this is a first commit)
